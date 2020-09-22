@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/shrestho10/portfolio-create-react/static/css/main.8dd624e5.chunk.css",
+    "main.js": "/shrestho10/portfolio-create-react/static/js/main.bde3b02a.chunk.js",
+    "main.js.map": "/shrestho10/portfolio-create-react/static/js/main.bde3b02a.chunk.js.map",
+    "runtime-main.js": "/shrestho10/portfolio-create-react/static/js/runtime-main.b161d081.js",
+    "runtime-main.js.map": "/shrestho10/portfolio-create-react/static/js/runtime-main.b161d081.js.map",
+    "static/js/2.241f38e5.chunk.js": "/shrestho10/portfolio-create-react/static/js/2.241f38e5.chunk.js",
+    "static/js/2.241f38e5.chunk.js.map": "/shrestho10/portfolio-create-react/static/js/2.241f38e5.chunk.js.map",
+    "index.html": "/shrestho10/portfolio-create-react/index.html",
+    "precache-manifest.bdbd94354d6735dc339602ddf3bda795.js": "/shrestho10/portfolio-create-react/precache-manifest.bdbd94354d6735dc339602ddf3bda795.js",
+    "service-worker.js": "/shrestho10/portfolio-create-react/service-worker.js",
+    "static/css/main.8dd624e5.chunk.css.map": "/shrestho10/portfolio-create-react/static/css/main.8dd624e5.chunk.css.map",
+    "static/js/2.241f38e5.chunk.js.LICENSE.txt": "/shrestho10/portfolio-create-react/static/js/2.241f38e5.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/shrestho10/portfolio-create-react/static/media/logo.5d5d9eef.svg",
+    "static/media/myimg.png": "/shrestho10/portfolio-create-react/static/media/myimg.6f9dccbc.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b161d081.js",
+    "static/js/2.241f38e5.chunk.js",
+    "static/css/main.8dd624e5.chunk.css",
+    "static/js/main.bde3b02a.chunk.js"
+  ]
+}
